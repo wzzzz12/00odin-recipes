@@ -1,1 +1,1 @@
-# odin-recipes
+Just another useless website
